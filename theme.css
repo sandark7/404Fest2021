@@ -28,16 +28,14 @@ blockquote:before {
   background: none;
   height: 75px;
   min-width: 55px;
-  color: #c04aea;
+  color: #fff;
   font-family: 'IBM Plex Mono', sans-serif;
   font-size: 40px;
-  font-style: italic;
   padding-top: 0;
-  padding-right: 5px;
   margin-left: 30px;
 }
 .slide.rbn::after {
-  background: #00d3ff;
+  background: #c04aea;
 }
 .slide::before {
   position: absolute;
